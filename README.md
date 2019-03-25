@@ -1,0 +1,2 @@
+simple blog using nextjs
+
